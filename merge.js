@@ -29,6 +29,7 @@ function merge(left, right){
 }
 
 console.log(mergeSort([7,5,2,4,3,9]));
+console.log(mergeSort([7,5,2,4,3,8]));
 
 // just break down your array into small and small pieces and until you have one items in each pieces. then merge together by comparing them
 
