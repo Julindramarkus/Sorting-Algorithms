@@ -28,7 +28,6 @@ console.log(bubbleSort([1,2,3,4,5,6])); //[1, 2, 3, 4, 5, 6]
 //
 // same thing is going on....
 //
-
 function bubble(ar){
   var i, j, limit //undefined
   limit = ar.length;
