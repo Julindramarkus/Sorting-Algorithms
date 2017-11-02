@@ -16,6 +16,7 @@ function selectionSort(arr){
 }
 
 console.log(selectionSort([7,5,2,4,3,9]));
+console.log(selectionSort([7,5,2,4,3,8]));
 
 // Go through the array, find the index of the lowest element swap the lowest element with the first element. Hence first element is the lowest element in the array.
 //
