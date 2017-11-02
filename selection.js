@@ -17,8 +17,9 @@ function selectionSort(arr){
 
 console.log(selectionSort([7,5,2,4,3,9]));
 
+
 // Go through the array, find the index of the lowest element swap the lowest element with the first element. Hence first element is the lowest element in the array.
 //
 // Now go through the rest of the array (excluding the first element) and find the index of the lowest and swap it with the second element.
-// 
+//
 // thats how it continues to select (find out) the lowest element of the array and putting it on the left until it hits the last element.
