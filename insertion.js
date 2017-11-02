@@ -13,6 +13,7 @@ function insertionSort(arr){
 }
 
 console.log(insertionSort([7,5,2,4,3,9]));
+console.log(insertionSort([7,5,2,4,3,10]));
 
 // How it works: Imagine you are playing cards. Somebody is giving you cards one by one. When you are receiving card, you are planning to put them in a way so that the smaller one is on the left. This means you want to insert them in a sorted way
 //
