@@ -9,7 +9,6 @@ function mergeSort(arr){
    //then merge those
    return merge(mergeSort(left),mergeSort(right));
 }
-
 function merge(left, right){
   var result = [],
       lLen = left.length,
